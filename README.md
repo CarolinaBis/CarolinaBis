@@ -1,6 +1,6 @@
 # Carolina Merante Bis
 
-📍 São Carlos, SP | 📧 [carolbis09@gmail.com](mailto:carolbis09@gmail.com) | 🎂 21 years old
+📍 São Carlos, SP | 📧 [carolbis09@gmail.com](mailto:carolbis09@gmail.com) | 🎂 22 years old
 
 ---
 
