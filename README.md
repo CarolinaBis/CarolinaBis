@@ -1,80 +1,74 @@
-# Carolina Merante Bis
+# Hi there, I'm Carolina Merante Bis
 
-📍 São Carlos, SP | 📧 [carolbis09@gmail.com](mailto:carolbis09@gmail.com) | 🎂 22 years old
-
----
-
-## Professional Profile
-
-I am a **Systems Analysis and Development** student at the Federal Institute of São Paulo (IFSP), with a solid technical background in programming, databases, and process automation.  
-Experienced in data analysis and in developing solutions to optimize administrative routines.  
-I am seeking opportunities to work as a **Development Analyst**, contributing with technical and strategic improvements.
+São Carlos, SP - Brazil | [carolbis09@gmail.com](mailto:carolbis09@gmail.com) | [LinkedIn](https://www.linkedin.com/in/carolinabis/)
 
 ---
 
-## Technical Skills
+### About Me
 
-- **Programming Languages:** Python, JavaScript, SQL (PostgreSQL), HTML, CSS, C  
-- **Databases:** Modeling, querying, and data manipulation in PostgreSQL  
-- **Automation:** Development of scripts in Python and Google Apps Script for data handling and export  
-- **Tools:** Microsoft Excel, Google Sheets, Git, Visual Studio Code  
-- **Agile Methodologies:** Scrum, Kanban  
+I am a Systems Analysis and Development student at the Federal Institute of São Paulo (IFSP), focused on Backend Development, Quality Assurance (QA), and Process Automation.
 
----
+I have practical experience building RESTful architectures with Java (Spring Boot) and Node.js, developing automated data extraction and processing pipelines with Python and Google Apps Script, and applying software testing methodologies (TDD, functional suites, JUnit 5).
 
-## Academic Background
-
-**Technologist in Systems Analysis and Development**  
-Federal Institute of Education, Science and Technology of São Paulo (IFSP) – São Carlos Campus  
-*Expected graduation: 2026*
+- Currently working on backend services, automation pipelines, and full-stack solutions.
+- Focused on clean architecture, Domain-Driven Design (DDD), and software quality.
+- Seeking opportunities as a Junior Software Developer / Backend Analyst.
 
 ---
 
-## Professional Experience
+### Tech Stack & Skills
 
-**Freelancer – Event Management and Customer Service**  
-São Carlos/SP  
-- Planning, organizing, and executing events, managing suppliers, and customer service  
-- Development of communication, teamwork, and problem-solving skills  
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Intern – Office of the Attorney General of the National Treasury (PGFN)**  
-São Carlos/SP | 2025 – Present  
-- Development and automation of routines for data extraction and processing using Python, reducing manual process time  
-- Implementation and maintenance of dynamic spreadsheets with Google Apps Script (JavaScript) for information control and analysis  
-- Management and querying of PostgreSQL databases, supporting report generation and systems integration  
+**Databases & Persistence**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
----
-
-## Academic Projects & Participation
-
-- **Tutorial Education Program (PET ADS) – IFSP**  
-Participation in research, outreach, and development projects in the field of Systems Analysis and Development  
-
-- **Women in Tech (WIT) Social Project – ICMC-USP**  
-Engagement in initiatives to promote inclusion and empower women in technology  
+**Architecture, Testing & DevOps**
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TDD](https://img.shields.io/badge/Methodology-TDD%20%26%20DDD-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## Languages
+### Experience
 
-- Portuguese: Native  
-- English: Intermediate (self-taught with continuous practice since 2014)
+#### Software & Automation Intern — Office of the Attorney General of the National Treasury (PGFN / PRFN3)
+*2025 – Present | São Carlos, SP*
+- Developed automation routines for data extraction and document processing using Python, significantly reducing manual processing time.
+- Implemented and maintained dynamic integrations and automations with Google Apps Script and Google Workspace.
+- Managed PostgreSQL databases, optimizing queries and reports to support internal decision-making.
+
+#### Freelancer — Event Organization & Client Relations
+*São Carlos, SP*
+- Structured logistics, managed customer service, and resolved real-time operational issues.
 
 ---
 
-## Contact
+### Education & Initiatives
 
-📫 Let’s connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-bis-b8b262286/) | 📧 [carolbis09@gmail.com](mailto:carolbis09@gmail.com)
+- Technologist in Systems Analysis and Development — IFSP (Instituto Federal de São Paulo)
+- Tutorial Education Program (PET ADS) — Participation in applied research, academic extension, and development projects.
+- Women in Tech (WIT) — ICMC-USP — Active participant in initiatives promoting diversity and women's empowerment in tech.
 
 ---
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban" alt="Kanban" />
-</div>
+### Languages
+
+- Portuguese: Native
+- English: Intermediate / Professional Working Proficiency
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinabis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carolbis09@gmail.com)
