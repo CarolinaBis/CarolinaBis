@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Carolina+Merante+Bis;Backend+Development+%7C+QA+%7C+Process+Automation;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Carolina+Bis;Backend+Development+%7C+QA+%7C+Process+Automation;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+Python" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@ São Carlos, SP - Brazil
 ```java
 public class CarolinaBis implements Developer {
 
-    String name     = "Carolina Merante Bis";
+    String name     = "Carolina Bis";
     String location = "São Carlos, SP - Brazil";
     String studying = "Systems Analysis and Development @ IFSP";
 
@@ -125,18 +125,25 @@ Active participant in initiatives promoting diversity and women's empowerment in
 | 🇺🇸 English | Intermediate / Professional Working Proficiency |
 
 ---
-## GitHub Stats
 
-<!-- Troque SEU_USUARIO pelo seu username do GitHub em todos os links abaixo -->
+<!--
+## Featured Projects
+
+Adicione aqui seus projetos em destaque. Exemplo de formato:
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [nome-do-repo](https://github.com/SEU_USUARIO/nome-do-repo) | Descrição curta do projeto | Java · Spring Boot · PostgreSQL |
+-->
+
+## GitHub
+
+<!-- Troque SEU_USUARIO pelo seu username do GitHub nos três links abaixo -->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161B22&color=00D9FF" alt="GitHub followers" /></a>
+<a href="https://github.com/SEU_USUARIO?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEU_USUARIO&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&labelColor=161B22&color=00D9FF" alt="GitHub public repositories" /></a>
 
 </div>
 
