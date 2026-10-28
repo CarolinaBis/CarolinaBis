@@ -1,74 +1,167 @@
-# Hi there, I'm Carolina Merante Bis
+<div align="center">
 
-São Carlos, SP - Brazil | [carolbis09@gmail.com](mailto:carolbis09@gmail.com) | [LinkedIn](https://www.linkedin.com/in/carolinabis/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Carolina+Merante+Bis;Backend+Development+%7C+QA+%7C+Process+Automation;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+Python" alt="Typing SVG" />
 
----
+<br/>
 
-### About Me
+São Carlos, SP - Brazil
 
-I am a Systems Analysis and Development student at the Federal Institute of São Paulo (IFSP), focused on Backend Development, Quality Assurance (QA), and Process Automation.
+<a href="mailto:carolbis09@gmail.com"><img src="https://img.shields.io/badge/Gmail-carolbis09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/carolinabis/"><img src="https://img.shields.io/badge/LinkedIn-carolinabis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-I have practical experience building RESTful architectures with Java (Spring Boot) and Node.js, developing automated data extraction and processing pipelines with Python and Google Apps Script, and applying software testing methodologies (TDD, functional suites, JUnit 5).
-
-- Currently working on backend services, automation pipelines, and full-stack solutions.
-- Focused on clean architecture, Domain-Driven Design (DDD), and software quality.
-- Seeking opportunities as a Junior Software Developer / Backend Analyst.
+</div>
 
 ---
 
-### Tech Stack & Skills
+## About Me
 
-**Languages & Frameworks**
+```java
+public class CarolinaBis implements Developer {
+
+    String name     = "Carolina Merante Bis";
+    String location = "São Carlos, SP - Brazil";
+    String studying = "Systems Analysis and Development @ IFSP";
+
+    String[] focus  = { "Backend Development", "Quality Assurance (QA)", "Process Automation" };
+    String[] values = { "Clean Architecture", "Domain-Driven Design (DDD)", "Software Quality" };
+
+    String lookingFor = "Junior Software Developer / Backend Analyst";
+}
+```
+
+I am a Systems Analysis and Development student at the **Federal Institute of São Paulo (IFSP)**, focused on Backend Development, Quality Assurance (QA), and Process Automation.
+
+I have practical experience building **RESTful architectures** with Java (Spring Boot) and Node.js, developing **automated data extraction and processing pipelines** with Python and Google Apps Script, and applying **software testing methodologies** (TDD, functional suites, JUnit 5).
+
+- Currently working on backend services, automation pipelines, and full-stack solutions
+- Focused on clean architecture, Domain-Driven Design (DDD), and software quality
+- Seeking opportunities as a **Junior Software Developer / Backend Analyst**
+
+---
+
+## Tech Stack & Skills
+
+### Languages & Frameworks
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Databases & Persistence**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+### Databases & Persistence
 
-**Architecture, Testing & DevOps**
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TDD](https://img.shields.io/badge/Methodology-TDD%20%26%20DDD-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Architecture, Testing & DevOps
 
-### Experience
-
-#### Software & Automation Intern — Office of the Attorney General of the National Treasury (PGFN / PRFN3)
-*2025 – Present | São Carlos, SP*
-- Developed automation routines for data extraction and document processing using Python, significantly reducing manual processing time.
-- Implemented and maintained dynamic integrations and automations with Google Apps Script and Google Workspace.
-- Managed PostgreSQL databases, optimizing queries and reports to support internal decision-making.
-
-#### Freelancer — Event Organization & Client Relations
-*São Carlos, SP*
-- Structured logistics, managed customer service, and resolved real-time operational issues.
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-E34F26?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-5C2D91?style=for-the-badge&logo=blueprint&logoColor=white)
 
 ---
 
-### Education & Initiatives
+## Experience
 
-- Technologist in Systems Analysis and Development — IFSP (Instituto Federal de São Paulo)
-- Tutorial Education Program (PET ADS) — Participation in applied research, academic extension, and development projects.
-- Women in Tech (WIT) — ICMC-USP — Active participant in initiatives promoting diversity and women's empowerment in tech.
+<details open>
+<summary><b>Software & Automation Intern</b> — Office of the Attorney General of the National Treasury (PGFN / PRFN3) &nbsp;|&nbsp; <i>2025 – Present</i> &nbsp;|&nbsp; São Carlos, SP</summary>
+
+<br/>
+
+- Developed automation routines for data extraction and document processing using **Python**, significantly reducing manual processing time
+- Implemented and maintained dynamic integrations and automations with **Google Apps Script** and **Google Workspace**
+- Managed **PostgreSQL** databases, optimizing queries and reports to support internal decision-making
+
+</details>
+
+<details>
+<summary><b>Freelancer</b> — Event Organization & Client Relations &nbsp;|&nbsp; São Carlos, SP</summary>
+
+<br/>
+
+- Structured logistics, managed customer service, and resolved real-time operational issues
+
+</details>
 
 ---
 
-### Languages
+## Education & Initiatives
 
-- Portuguese: Native
-- English: Intermediate / Professional Working Proficiency
+<details open>
+<summary><b>Technologist in Systems Analysis and Development</b> — IFSP (Instituto Federal de São Paulo)</summary>
+
+<br/>
+
+Currently enrolled.
+
+</details>
+
+<details>
+<summary><b>Tutorial Education Program (PET ADS)</b></summary>
+
+<br/>
+
+Participation in applied research, academic extension, and development projects.
+
+</details>
+
+<details>
+<summary><b>Women in Tech (WIT)</b> — ICMC-USP</summary>
+
+<br/>
+
+Active participant in initiatives promoting diversity and women's empowerment in tech.
+
+</details>
 
 ---
 
-### Let's Connect
+## Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinabis/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carolbis09@gmail.com)
+| Language | Level |
+|:--|:--|
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Intermediate / Professional Working Proficiency |
+
+---
+
+<!--
+## Featured Projects
+
+Adicione aqui seus projetos em destaque. Exemplo de formato:
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [nome-do-repo](https://github.com/SEU_USUARIO/nome-do-repo) | Descrição curta do projeto | Java · Spring Boot · PostgreSQL |
+-->
+
+## GitHub Stats
+
+<!-- Troque SEU_USUARIO pelo seu username do GitHub em todos os links abaixo -->
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/carolinabis/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:carolbis09@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" />
+
+</div>
