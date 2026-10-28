@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Carolina+Bis;Backend+Development+%7C+QA+%7C+Process+Automation;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Carolina+Bis;FullStack+Development+%7C+QA+%7C+;Java+%C2%B7+JavaScript+%C2%B7+Node.js+%C2%B7+Python" alt="Typing SVG" />
 
 <br/>
 
@@ -22,10 +22,10 @@ public class CarolinaBis implements Developer {
     String location = "São Carlos, SP - Brazil";
     String studying = "Systems Analysis and Development @ IFSP";
 
-    String[] focus  = { "Backend Development", "Quality Assurance (QA)", "Process Automation" };
+    String[] focus  = { "Backend Development", "Quality Assurance (QA)", "Frontend Development" };
     String[] values = { "Clean Architecture", "Domain-Driven Design (DDD)", "Software Quality" };
 
-    String lookingFor = "Junior Software Developer / Backend Analyst";
+    String lookingFor = "Junior Software Developer";
 }
 ```
 
