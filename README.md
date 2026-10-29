@@ -106,15 +106,6 @@ Participation in applied research, academic extension, and development projects.
 
 </details>
 
-<details>
-<summary><b>Women in Tech (WIT)</b> — ICMC-USP</summary>
-
-<br/>
-
-Active participant in initiatives promoting diversity and women's empowerment in tech.
-
-</details>
-
 ---
 
 ## Languages
@@ -124,26 +115,13 @@ Active participant in initiatives promoting diversity and women's empowerment in
 | 🇧🇷 Portuguese | Native |
 | 🇺🇸 English | Intermediate / Professional Working Proficiency |
 
----
-
-<!--
-## Featured Projects
-
-Adicione aqui seus projetos em destaque. Exemplo de formato:
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| [nome-do-repo](https://github.com/SEU_USUARIO/nome-do-repo) | Descrição curta do projeto | Java · Spring Boot · PostgreSQL |
--->
 
 ## GitHub
 
-<!-- Troque SEU_USUARIO pelo seu username do GitHub nos três links abaixo -->
-
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161B22&color=00D9FF" alt="GitHub followers" /></a>
-<a href="https://github.com/SEU_USUARIO?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEU_USUARIO&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&labelColor=161B22&color=00D9FF" alt="GitHub public repositories" /></a>
+<a href="https://github.com/CarolinaBis"><img src="https://img.shields.io/github/followers/CarolinaBis?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161B22&color=00D9FF" alt="GitHub followers" /></a>
+<a href="https://github.com/CarolinaBis?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCarolinaBis&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&labelColor=161B22&color=00D9FF" alt="GitHub public repositories" /></a>
 
 </div>
 
